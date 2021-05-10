@@ -1,0 +1,1 @@
+export { initialStateFavourites, favouritesReducer } from "./favouritesReducer";
